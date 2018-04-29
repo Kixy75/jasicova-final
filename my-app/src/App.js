@@ -13,7 +13,10 @@ class App extends Component {
         <p className="App-intro">
            <code>src/App.js</code> and save to reload.
         </p>
-        </div>
+        <p className="Card">
+        <Link to="/Blog/1">Ako pomaly zošalieť?</Link>
+          </p>
+          </div>
     );
     }
 }
